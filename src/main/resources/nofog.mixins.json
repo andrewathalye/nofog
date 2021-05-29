@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tk.zenithseeker.nofog.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "DimensionSpecialEffectsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
