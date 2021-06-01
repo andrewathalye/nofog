@@ -6,7 +6,8 @@
   "mixins": [
   ],
   "client": [
-    "DimensionSpecialEffectsMixin"
+    "DimensionSpecialEffectsMixin",
+    "CameraMixin"
   ],
   "injectors": {
     "defaultRequire": 1
